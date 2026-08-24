@@ -1,0 +1,36 @@
+{
+  "records": 22641,
+  "parse_success_rate": 1.0,
+  "sentiment_counts": {
+    "Positive": 8825,
+    "Neutral": 10871,
+    "Negative": 2945
+  },
+  "urgency_counts": {
+    "Low": 8881,
+    "Medium": 13477,
+    "High": 283
+  },
+  "feedback_type_counts": {
+    "Product": 17581,
+    "Mixed": 4691,
+    "Other": 255,
+    "Service": 114
+  },
+  "recommendation_metrics": {
+    "evaluated_records": 22641,
+    "accuracy": 0.896,
+    "confusion_matrix": [
+      [
+        3022,
+        1079
+      ],
+      [
+        1266,
+        17274
+      ]
+    ]
+  },
+  "mode": "offline",
+  "prompt_key": "offline_rules"
+}

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retail-feedback-intelligence"
+version = "0.1.0"
+description = "A portfolio-ready GenAI pipeline for turning retail reviews into operational feedback intelligence."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Kelly Wyrick" }]
+dependencies = []
+
+[project.optional-dependencies]
+llm = ["openai>=1.30.0"]
+
+[project.scripts]
+retail-feedback = "retail_feedback_intelligence.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,257 @@
+{"kind":"deck","id":"chicstyle-retail-feedback-capstone","slideCount":9,"slideSize":{"width":1280,"height":720}}
+{"kind":"slide","slide":1,"id":"uwo9wy"}
+{"kind":"slide","slide":2,"id":"6cyicf"}
+{"kind":"slide","slide":3,"id":"q32tu1"}
+{"kind":"slide","slide":4,"id":"ln50bo"}
+{"kind":"slide","slide":5,"id":"h7bqw9"}
+{"kind":"slide","slide":6,"id":"plh9m5"}
+{"kind":"slide","slide":7,"id":"bhd0bp"}
+{"kind":"slide","slide":8,"id":"j45xcz"}
+{"kind":"slide","slide":9,"id":"kwssxh"}
+{"kind":"shape","slide":1,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":1,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":1,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":1,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"shape","slide":1,"id":"6","role":"cover side panel","shapeType":"rect","bbox":[736,48,484,624]}
+{"kind":"shape","slide":1,"id":"7","role":"cover accent rule","shapeType":"rect","bbox":[64,86,7,472]}
+{"kind":"textbox","slide":1,"id":"8","role":"kicker","text":"Capstone Presentation","textPreview":"Capstone Presentation","textChars":21,"textLines":1,"bbox":[86,88,520,26]}
+{"kind":"textbox","slide":1,"id":"9","role":"cover title","text":"Real-Time Retail Feedback Intelligence for ChicStyle","textPreview":"Real-Time Retail Feedback Intelligence for ChicStyle","textChars":52,"textLines":1,"bbox":[82,130,785,184]}
+{"kind":"textbox","slide":1,"id":"10","role":"cover subtitle","text":"Using Generative AI to turn customer reviews into structured retail action.","textPreview":"Using Generative AI to turn customer reviews into structured retail action.","textChars":75,"textLines":1,"bbox":[86,322,610,86]}
+{"kind":"shape","slide":1,"id":"11","role":"cover framing frame","shapeType":"roundRect","bbox":[86,452,580,136]}
+{"kind":"shape","slide":1,"id":"12","role":"cover framing accent","shapeType":"rect","bbox":[86,452,580,7]}
+{"kind":"textbox","slide":1,"id":"13","role":"narrative title","text":"Executive framing","textPreview":"Executive framing","textChars":17,"textLines":1,"bbox":[108,470,536,28]}
+{"kind":"textbox","slide":1,"id":"14","role":"narrative body","text":"The goal is simple: turn review text into faster,\nclearer decisions for support, merchandising, and\nproduct teams.","textPreview":"The goal is simple: turn review text into faster, | clearer decisions for support, merchandising, and | product teams.","textChars":114,"textLines":3,"bbox":[110,504,532,70]}
+{"kind":"shape","slide":1,"id":"15","role":"summary card Business need frame","shapeType":"roundRect","bbox":[760,104,426,116]}
+{"kind":"shape","slide":1,"id":"16","role":"summary card Business need accent","shapeType":"rect","bbox":[760,104,426,7]}
+{"kind":"textbox","slide":1,"id":"17","role":"summary card label","text":"BUSINESS NEED","textPreview":"BUSINESS NEED","textChars":13,"textLines":1,"bbox":[780,122,386,22]}
+{"kind":"textbox","slide":1,"id":"18","role":"summary card body","text":"Peak-season reviews carry urgent\nsignals on fit, quality, delivery, and\ncustomer trust.","textPreview":"Peak-season reviews carry urgent | signals on fit, quality, delivery, and | customer trust.","textChars":87,"textLines":3,"bbox":[780,150,386,62]}
+{"kind":"shape","slide":1,"id":"19","role":"summary card Best GenAI prompt frame","shapeType":"roundRect","bbox":[760,246,426,116]}
+{"kind":"shape","slide":1,"id":"20","role":"summary card Best GenAI prompt accent","shapeType":"rect","bbox":[760,246,426,7]}
+{"kind":"textbox","slide":1,"id":"21","role":"summary card label","text":"BEST GENAI PROMPT","textPreview":"BEST GENAI PROMPT","textChars":17,"textLines":1,"bbox":[780,264,386,22]}
+{"kind":"textbox","slide":1,"id":"22","role":"summary card body","text":"Zero-Shot V1 produced the strongest\nstructured outputs, with CoT V2 close\nbehind.","textPreview":"Zero-Shot V1 produced the strongest | structured outputs, with CoT V2 close | behind.","textChars":81,"textLines":3,"bbox":[780,292,386,62]}
+{"kind":"shape","slide":1,"id":"23","role":"summary card Action focus frame","shapeType":"roundRect","bbox":[760,388,426,116]}
+{"kind":"shape","slide":1,"id":"24","role":"summary card Action focus accent","shapeType":"rect","bbox":[760,388,426,7]}
+{"kind":"textbox","slide":1,"id":"25","role":"summary card label","text":"ACTION FOCUS","textPreview":"ACTION FOCUS","textChars":12,"textLines":1,"bbox":[780,406,386,22]}
+{"kind":"textbox","slide":1,"id":"26","role":"summary card body","text":"Top actions: sizing consistency, fit\nguidance, better photography, and\nclearer fabric details.","textPreview":"Top actions: sizing consistency, fit | guidance, better photography, and | clearer fabric details.","textChars":94,"textLines":3,"bbox":[780,434,386,62]}
+{"kind":"textbox","slide":1,"id":"27","role":"cover footer note","text":"22,641 usable reviews | 50-review final GenAI evaluation sample","textPreview":"22,641 usable reviews | 50-review final GenAI evaluation sample","textChars":63,"textLines":1,"bbox":[86,604,540,24]}
+{"kind":"shape","slide":2,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":2,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":2,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":2,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"textbox","slide":2,"id":"6","role":"header","text":"BUSINESS NEED","textPreview":"BUSINESS NEED","textChars":13,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":2,"id":"7","role":"header","text":"02 / 09","textPreview":"02 / 09","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":2,"id":"8","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":2,"id":"9","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":2,"id":"10","role":"title","text":"Why this problem matters","textPreview":"Why this problem matters","textChars":24,"textLines":1,"bbox":[64,86,780,142]}
+{"kind":"textbox","slide":2,"id":"11","role":"subtitle","text":"Holiday review spikes make manual review slow, inconsistent, and hard to scale.","textPreview":"Holiday review spikes make manual review slow, inconsistent, and hard to scale.","textChars":79,"textLines":1,"bbox":[66,194,720,34]}
+{"kind":"shape","slide":2,"id":"12","role":"problem panel frame","shapeType":"roundRect","bbox":[64,238,548,262]}
+{"kind":"shape","slide":2,"id":"13","role":"problem panel accent","shapeType":"rect","bbox":[64,238,548,7]}
+{"kind":"textbox","slide":2,"id":"14","role":"panel title","text":"Why the current process breaks down","textPreview":"Why the current process breaks down","textChars":35,"textLines":1,"bbox":[86,258,504,30]}
+{"kind":"textbox","slide":2,"id":"15","role":"bullet list","text":"• Holiday spikes create more reviews than support\nand merchandising teams can read manually.\n• Simple positive-versus-negative tagging misses\nmixed issues such as style praise paired with fit\ncomplaints.\n• Slow review triage delays action on return\ndrivers, product-page fixes, and urgent customer\ndissatisfaction.","textPreview":"• Holiday spikes create more reviews than support | and merchandising teams can read manually. | • Simple positive-versus-negative tagging misses | mixed issues such as style prais","textChars":314,"textLines":8,"bbox":[88,304,500,174]}
+{"kind":"shape","slide":2,"id":"16","role":"objective panel frame","shapeType":"roundRect","bbox":[668,238,548,262]}
+{"kind":"shape","slide":2,"id":"17","role":"objective panel accent","shapeType":"rect","bbox":[668,238,548,7]}
+{"kind":"textbox","slide":2,"id":"18","role":"panel title","text":"What the solution must deliver","textPreview":"What the solution must deliver","textChars":30,"textLines":1,"bbox":[690,258,504,30]}
+{"kind":"textbox","slide":2,"id":"19","role":"bullet list","text":"• Classify the issue being discussed, not just the\nsentiment tone.\n• Summarize each review and draft an empathetic\ncustomer-facing response.\n• Extract a retail action the business can monitor\nor fix.\n• Predict whether the customer would recommend the\nproduct.","textPreview":"• Classify the issue being discussed, not just the | sentiment tone. | • Summarize each review and draft an empathetic | customer-facing response. | • Extract a retail action the b","textChars":259,"textLines":8,"bbox":[692,304,500,174]}
+{"kind":"shape","slide":2,"id":"20","role":"outcome panel frame","shapeType":"roundRect","bbox":[64,532,1152,118]}
+{"kind":"shape","slide":2,"id":"21","role":"outcome panel accent","shapeType":"rect","bbox":[64,532,1152,7]}
+{"kind":"textbox","slide":2,"id":"22","role":"narrative title","text":"Business outcome","textPreview":"Business outcome","textChars":16,"textLines":1,"bbox":[86,550,1108,28]}
+{"kind":"textbox","slide":2,"id":"23","role":"narrative body","text":"The target state is faster review triage, clearer ownership across support and merchandising, and better\nproduct decisions grounded in live customer feedback.","textPreview":"The target state is faster review triage, clearer ownership across support and merchandising, and better | product decisions grounded in live customer feedback.","textChars":158,"textLines":2,"bbox":[88,584,1104,52]}
+{"kind":"shape","slide":3,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":3,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":3,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":3,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"textbox","slide":3,"id":"6","role":"header","text":"SOLUTION DESIGN","textPreview":"SOLUTION DESIGN","textChars":15,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":3,"id":"7","role":"header","text":"03 / 09","textPreview":"03 / 09","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":3,"id":"8","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":3,"id":"9","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":3,"id":"10","role":"title","text":"Data and workflow design","textPreview":"Data and workflow design","textChars":24,"textLines":1,"bbox":[64,86,820,142]}
+{"kind":"textbox","slide":3,"id":"11","role":"subtitle","text":"The pipeline combines retail context, prompt engineering, evaluation, and recommendation prediction.","textPreview":"The pipeline combines retail context, prompt engineering, evaluation, and recommendation prediction.","textChars":100,"textLines":1,"bbox":[66,194,720,34]}
+{"kind":"shape","slide":3,"id":"12","role":"metric panel: usable reviews in the cleaned dataset","shapeType":"roundRect","bbox":[76,222,352,150]}
+{"kind":"shape","slide":3,"id":"13","role":"metric accent: usable reviews in the cleaned dataset","shapeType":"rect","bbox":[76,222,352,7]}
+{"kind":"textbox","slide":3,"id":"14","role":"metric value","text":"22,641","textPreview":"22,641","textChars":6,"textLines":1,"bbox":[98,242,308,54]}
+{"kind":"textbox","slide":3,"id":"15","role":"metric label","text":"usable reviews in the cleaned dataset","textPreview":"usable reviews in the cleaned dataset","textChars":37,"textLines":1,"bbox":[100,312,304,42]}
+{"kind":"shape","slide":3,"id":"16","role":"metric panel: reviews in the final GenAI comparison sample","shapeType":"roundRect","bbox":[464,222,352,150]}
+{"kind":"shape","slide":3,"id":"17","role":"metric accent: reviews in the final GenAI comparison sample","shapeType":"rect","bbox":[464,222,352,7]}
+{"kind":"textbox","slide":3,"id":"18","role":"metric value","text":"50","textPreview":"50","textChars":2,"textLines":1,"bbox":[486,242,308,54]}
+{"kind":"textbox","slide":3,"id":"19","role":"metric label","text":"reviews in the final GenAI comparison sample","textPreview":"reviews in the final GenAI comparison sample","textChars":44,"textLines":1,"bbox":[488,312,304,42]}
+{"kind":"shape","slide":3,"id":"20","role":"metric panel: product context available to group insights","shapeType":"roundRect","bbox":[852,222,352,150]}
+{"kind":"shape","slide":3,"id":"21","role":"metric accent: product context available to group insights","shapeType":"rect","bbox":[852,222,352,7]}
+{"kind":"textbox","slide":3,"id":"22","role":"metric value","text":"6 depts\n20 classes","textPreview":"6 depts | 20 classes","textChars":18,"textLines":2,"bbox":[874,242,308,64]}
+{"kind":"textbox","slide":3,"id":"23","role":"metric label","text":"product context available to group insights","textPreview":"product context available to group insights","textChars":43,"textLines":1,"bbox":[876,312,304,42]}
+{"kind":"shape","slide":3,"id":"24","role":"flow step 1. Prepare frame","shapeType":"roundRect","bbox":[64,424,208,176]}
+{"kind":"shape","slide":3,"id":"25","role":"flow step 1. Prepare accent","shapeType":"rect","bbox":[64,424,208,7]}
+{"kind":"textbox","slide":3,"id":"26","role":"flow label","text":"1. Prepare","textPreview":"1. Prepare","textChars":10,"textLines":1,"bbox":[82,442,172,24]}
+{"kind":"textbox","slide":3,"id":"27","role":"flow body","text":"Clean review text\nand keep the\noriginal\nrecommendation label\noutside the prompt.","textPreview":"Clean review text | and keep the | original | recommendation label | outside the prompt.","textChars":80,"textLines":5,"bbox":[82,474,172,112]}
+{"kind":"shape","slide":3,"id":"28","role":"flow arrow","shapeType":"rightArrow","bbox":[276,496,18,24]}
+{"kind":"shape","slide":3,"id":"29","role":"flow step 2. Explore frame","shapeType":"roundRect","bbox":[290,424,208,176]}
+{"kind":"shape","slide":3,"id":"30","role":"flow step 2. Explore accent","shapeType":"rect","bbox":[290,424,208,7]}
+{"kind":"textbox","slide":3,"id":"31","role":"flow label","text":"2. Explore","textPreview":"2. Explore","textChars":10,"textLines":1,"bbox":[308,442,172,24]}
+{"kind":"textbox","slide":3,"id":"32","role":"flow body","text":"Use EDA to\nunderstand ratings,\ndepartments, common\nterms, and likely\ndissatisfaction\ndrivers.","textPreview":"Use EDA to | understand ratings, | departments, common | terms, and likely | dissatisfaction | drivers.","textChars":93,"textLines":6,"bbox":[308,474,172,112]}
+{"kind":"shape","slide":3,"id":"33","role":"flow arrow","shapeType":"rightArrow","bbox":[502,496,18,24]}
+{"kind":"shape","slide":3,"id":"34","role":"flow step 3. Generate frame","shapeType":"roundRect","bbox":[516,424,208,176]}
+{"kind":"shape","slide":3,"id":"35","role":"flow step 3. Generate accent","shapeType":"rect","bbox":[516,424,208,7]}
+{"kind":"textbox","slide":3,"id":"36","role":"flow label","text":"3. Generate","textPreview":"3. Generate","textChars":11,"textLines":1,"bbox":[534,442,172,24]}
+{"kind":"textbox","slide":3,"id":"37","role":"flow body","text":"Run Zero-Shot,\nFew-Shot, and CoT\nprompts to produce\nstructured review\noutputs.","textPreview":"Run Zero-Shot, | Few-Shot, and CoT | prompts to produce | structured review | outputs.","textChars":78,"textLines":5,"bbox":[534,474,172,112]}
+{"kind":"shape","slide":3,"id":"38","role":"flow arrow","shapeType":"rightArrow","bbox":[728,496,18,24]}
+{"kind":"shape","slide":3,"id":"39","role":"flow step 4. Evaluate frame","shapeType":"roundRect","bbox":[742,424,208,176]}
+{"kind":"shape","slide":3,"id":"40","role":"flow step 4. Evaluate accent","shapeType":"rect","bbox":[742,424,208,7]}
+{"kind":"textbox","slide":3,"id":"41","role":"flow label","text":"4. Evaluate","textPreview":"4. Evaluate","textChars":11,"textLines":1,"bbox":[760,442,172,24]}
+{"kind":"textbox","slide":3,"id":"42","role":"flow body","text":"Score prompt quality\nwith an LLM-as-Judge\nacross repeated runs\nto reduce\nrandomness.","textPreview":"Score prompt quality | with an LLM-as-Judge | across repeated runs | to reduce | randomness.","textChars":84,"textLines":5,"bbox":[760,474,172,112]}
+{"kind":"shape","slide":3,"id":"43","role":"flow arrow","shapeType":"rightArrow","bbox":[954,496,18,24]}
+{"kind":"shape","slide":3,"id":"44","role":"flow step 5. Act frame","shapeType":"roundRect","bbox":[968,424,208,176]}
+{"kind":"shape","slide":3,"id":"45","role":"flow step 5. Act accent","shapeType":"rect","bbox":[968,424,208,7]}
+{"kind":"textbox","slide":3,"id":"46","role":"flow label","text":"5. Act","textPreview":"5. Act","textChars":6,"textLines":1,"bbox":[986,442,172,24]}
+{"kind":"textbox","slide":3,"id":"47","role":"flow body","text":"Turn the best\noutputs into\nrecommendations,\nrouting signals, and\nmerchandising\nactions.","textPreview":"Turn the best | outputs into | recommendations, | routing signals, and | merchandising | actions.","textChars":87,"textLines":6,"bbox":[986,474,172,112]}
+{"kind":"shape","slide":4,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":4,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":4,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":4,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"textbox","slide":4,"id":"6","role":"header","text":"EDA","textPreview":"EDA","textChars":3,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":4,"id":"7","role":"header","text":"04 / 09","textPreview":"04 / 09","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":4,"id":"8","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":4,"id":"9","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":4,"id":"10","role":"title","text":"The catalog is well liked overall, but pain points are concentrated","textPreview":"The catalog is well liked overall, but pain points are concentrated","textChars":67,"textLines":1,"bbox":[64,86,820,142]}
+{"kind":"textbox","slide":4,"id":"11","role":"subtitle","text":"Ratings skew strongly positive, yet recurring issues are clear enough to guide action.","textPreview":"Ratings skew strongly positive, yet recurring issues are clear enough to guide action.","textChars":86,"textLines":1,"bbox":[66,194,720,34]}
+{"kind":"shape","slide":4,"id":"12","role":"chart panel Rating distribution across usable reviews frame","shapeType":"roundRect","bbox":[64,224,660,392]}
+{"kind":"shape","slide":4,"id":"13","role":"chart panel Rating distribution across usable reviews accent","shapeType":"rect","bbox":[64,224,660,7]}
+{"kind":"textbox","slide":4,"id":"14","role":"chart panel title","text":"Rating distribution across usable reviews","textPreview":"Rating distribution across usable reviews","textChars":41,"textLines":1,"bbox":[86,244,616,28]}
+{"kind":"chart","slide":4,"role":"Rating distribution across usable reviews","bbox":[88,288,612,304],"categories":["1 Star","2 Stars","3 Stars","4 Stars","5 Stars"],"values":[821,1549,2823,4908,12540]}
+{"kind":"shape","slide":4,"id":"16","role":"ratings takeaway frame","shapeType":"roundRect","bbox":[752,224,464,176]}
+{"kind":"shape","slide":4,"id":"17","role":"ratings takeaway accent","shapeType":"rect","bbox":[752,224,464,7]}
+{"kind":"textbox","slide":4,"id":"18","role":"narrative title","text":"What the ratings say","textPreview":"What the ratings say","textChars":20,"textLines":1,"bbox":[774,242,420,28]}
+{"kind":"textbox","slide":4,"id":"19","role":"narrative body","text":"4.18 average rating and 77.1% of reviews\nat 4 or 5 stars show that the catalog is\nbroadly well received.","textPreview":"4.18 average rating and 77.1% of reviews | at 4 or 5 stars show that the catalog is | broadly well received.","textChars":104,"textLines":3,"bbox":[776,276,416,110]}
+{"kind":"shape","slide":4,"id":"20","role":"friction takeaway frame","shapeType":"roundRect","bbox":[752,430,464,186]}
+{"kind":"shape","slide":4,"id":"21","role":"friction takeaway accent","shapeType":"rect","bbox":[752,430,464,7]}
+{"kind":"textbox","slide":4,"id":"22","role":"narrative title","text":"Where friction shows up","textPreview":"Where friction shows up","textChars":23,"textLines":1,"bbox":[774,448,420,28]}
+{"kind":"textbox","slide":4,"id":"23","role":"narrative body","text":"Bottoms has the highest average rating at\n4.279, while Trend is lowest at 3.839.\nNegative reviews repeatedly mention\nsizing inconsistency, fabric quality, and\nphoto-to-product mismatch.","textPreview":"Bottoms has the highest average rating at | 4.279, while Trend is lowest at 3.839. | Negative reviews repeatedly mention | sizing inconsistency, fabric quality, and | photo-to-prod","textChars":185,"textLines":5,"bbox":[776,482,416,120]}
+{"kind":"shape","slide":5,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":5,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":5,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":5,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"textbox","slide":5,"id":"6","role":"header","text":"PROMPT RESULTS","textPreview":"PROMPT RESULTS","textChars":14,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":5,"id":"7","role":"header","text":"05 / 09","textPreview":"05 / 09","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":5,"id":"8","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":5,"id":"9","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":5,"id":"10","role":"title","text":"Simple, direct prompting worked best","textPreview":"Simple, direct prompting worked best","textChars":36,"textLines":1,"bbox":[64,86,820,142]}
+{"kind":"textbox","slide":5,"id":"11","role":"subtitle","text":"Repeated evaluation showed a stable ranking across Zero-Shot, Few-Shot, and CoT variants.","textPreview":"Repeated evaluation showed a stable ranking across Zero-Shot, Few-Shot, and CoT variants.","textChars":89,"textLines":1,"bbox":[66,194,720,34]}
+{"kind":"shape","slide":5,"id":"12","role":"chart panel Average judge score across four runs (out of 100) frame","shapeType":"roundRect","bbox":[64,224,700,392]}
+{"kind":"shape","slide":5,"id":"13","role":"chart panel Average judge score across four runs (out of 100) accent","shapeType":"rect","bbox":[64,224,700,7]}
+{"kind":"textbox","slide":5,"id":"14","role":"chart panel title","text":"Average judge score across four runs (out of 100)","textPreview":"Average judge score across four runs (out of 100)","textChars":49,"textLines":1,"bbox":[86,244,656,28]}
+{"kind":"chart","slide":5,"role":"Average judge score across four runs (out of 100)","bbox":[88,288,652,304],"categories":["ZS V1","ZS V2","FS V1","FS V2","CoT V1","CoT V2"],"values":[91.6,85.8,90.95,88.5,89.45,91.05]}
+{"kind":"shape","slide":5,"id":"16","role":"best prompt panel frame","shapeType":"roundRect","bbox":[792,224,424,128]}
+{"kind":"shape","slide":5,"id":"17","role":"best prompt panel accent","shapeType":"rect","bbox":[792,224,424,7]}
+{"kind":"textbox","slide":5,"id":"18","role":"narrative title","text":"Best overall","textPreview":"Best overall","textChars":12,"textLines":1,"bbox":[814,242,380,28]}
+{"kind":"textbox","slide":5,"id":"19","role":"narrative body","text":"Zero-Shot V1 ranked first at 91.6,\nwith CoT V2 close behind at 91.05 and\nFew-Shot V1 at 90.95.","textPreview":"Zero-Shot V1 ranked first at 91.6, | with CoT V2 close behind at 91.05 and | Few-Shot V1 at 90.95.","textChars":94,"textLines":3,"bbox":[816,276,376,62]}
+{"kind":"shape","slide":5,"id":"20","role":"v2 impact panel frame","shapeType":"roundRect","bbox":[792,357,424,128]}
+{"kind":"shape","slide":5,"id":"21","role":"v2 impact panel accent","shapeType":"rect","bbox":[792,357,424,7]}
+{"kind":"textbox","slide":5,"id":"22","role":"narrative title","text":"What changed in V2","textPreview":"What changed in V2","textChars":18,"textLines":1,"bbox":[814,375,380,28]}
+{"kind":"textbox","slide":5,"id":"23","role":"narrative body","text":"V2 added useful structure for CoT,\nbut extra context weakened the\nZero-Shot and Few-Shot versions.","textPreview":"V2 added useful structure for CoT, | but extra context weakened the | Zero-Shot and Few-Shot versions.","textChars":98,"textLines":3,"bbox":[816,409,376,62]}
+{"kind":"shape","slide":5,"id":"24","role":"operational conclusion panel frame","shapeType":"roundRect","bbox":[792,490,424,124]}
+{"kind":"shape","slide":5,"id":"25","role":"operational conclusion panel accent","shapeType":"rect","bbox":[792,490,424,7]}
+{"kind":"textbox","slide":5,"id":"26","role":"narrative title","text":"Operational conclusion","textPreview":"Operational conclusion","textChars":22,"textLines":1,"bbox":[814,508,380,28]}
+{"kind":"textbox","slide":5,"id":"27","role":"narrative body","text":"All prompts parsed cleanly, so the\nmain difference was output usefulness\nrather than formatting stability.","textPreview":"All prompts parsed cleanly, so the | main difference was output usefulness | rather than formatting stability.","textChars":106,"textLines":3,"bbox":[816,542,376,58]}
+{"kind":"shape","slide":6,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":6,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":6,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":6,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"textbox","slide":6,"id":"6","role":"header","text":"RECOMMENDATION SIGNAL","textPreview":"RECOMMENDATION SIGNAL","textChars":21,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":6,"id":"7","role":"header","text":"06 / 09","textPreview":"06 / 09","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":6,"id":"8","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":6,"id":"9","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":6,"id":"10","role":"title","text":"The recommendation prompt works well as a triage signal","textPreview":"The recommendation prompt works well as a triage signal","textChars":55,"textLines":1,"bbox":[64,86,820,142]}
+{"kind":"textbox","slide":6,"id":"11","role":"subtitle","text":"It is strongest at catching negative recommendation intent without overstating positive intent.","textPreview":"It is strongest at catching negative recommendation intent without overstating positive intent.","textChars":95,"textLines":1,"bbox":[66,194,720,34]}
+{"kind":"shape","slide":6,"id":"12","role":"metric panel: overall recommendation prediction accuracy","shapeType":"roundRect","bbox":[76,224,352,154]}
+{"kind":"shape","slide":6,"id":"13","role":"metric accent: overall recommendation prediction accuracy","shapeType":"rect","bbox":[76,224,352,7]}
+{"kind":"textbox","slide":6,"id":"14","role":"metric value","text":"80%","textPreview":"80%","textChars":3,"textLines":1,"bbox":[98,244,308,54]}
+{"kind":"textbox","slide":6,"id":"15","role":"metric label","text":"overall recommendation prediction accuracy","textPreview":"overall recommendation prediction accuracy","textChars":42,"textLines":1,"bbox":[100,314,304,42]}
+{"kind":"shape","slide":6,"id":"16","role":"metric panel: of not-recommended reviews captured","shapeType":"roundRect","bbox":[464,224,352,154]}
+{"kind":"shape","slide":6,"id":"17","role":"metric accent: of not-recommended reviews captured","shapeType":"rect","bbox":[464,224,352,7]}
+{"kind":"textbox","slide":6,"id":"18","role":"metric value","text":"100%","textPreview":"100%","textChars":4,"textLines":1,"bbox":[486,244,308,54]}
+{"kind":"textbox","slide":6,"id":"19","role":"metric label","text":"of not-recommended reviews captured","textPreview":"of not-recommended reviews captured","textChars":35,"textLines":1,"bbox":[488,314,304,42]}
+{"kind":"shape","slide":6,"id":"20","role":"metric panel: of recommended reviews captured","shapeType":"roundRect","bbox":[852,224,352,154]}
+{"kind":"shape","slide":6,"id":"21","role":"metric accent: of recommended reviews captured","shapeType":"rect","bbox":[852,224,352,7]}
+{"kind":"textbox","slide":6,"id":"22","role":"metric value","text":"74%","textPreview":"74%","textChars":3,"textLines":1,"bbox":[874,244,308,54]}
+{"kind":"textbox","slide":6,"id":"23","role":"metric label","text":"of recommended reviews captured","textPreview":"of recommended reviews captured","textChars":31,"textLines":1,"bbox":[876,314,304,42]}
+{"kind":"shape","slide":6,"id":"24","role":"recommendation meaning frame","shapeType":"roundRect","bbox":[64,430,560,178]}
+{"kind":"shape","slide":6,"id":"25","role":"recommendation meaning accent","shapeType":"rect","bbox":[64,430,560,7]}
+{"kind":"textbox","slide":6,"id":"26","role":"narrative title","text":"What it means operationally","textPreview":"What it means operationally","textChars":27,"textLines":1,"bbox":[86,448,516,28]}
+{"kind":"textbox","slide":6,"id":"27","role":"narrative body","text":"The prompt is strong for triage because it caught\nevery not-recommended review in the sample. It is\nmore conservative on positive recommendations, so\nit is better for routing risk than replacing human\nreview.","textPreview":"The prompt is strong for triage because it caught | every not-recommended review in the sample. It is | more conservative on positive recommendations, so | it is better for routing","textChars":208,"textLines":5,"bbox":[88,482,512,112]}
+{"kind":"shape","slide":6,"id":"28","role":"sentiment nuance frame","shapeType":"roundRect","bbox":[656,430,560,178]}
+{"kind":"shape","slide":6,"id":"29","role":"sentiment nuance accent","shapeType":"rect","bbox":[656,430,560,7]}
+{"kind":"textbox","slide":6,"id":"30","role":"narrative title","text":"What sentiment nuance tells us","textPreview":"What sentiment nuance tells us","textChars":30,"textLines":1,"bbox":[678,448,516,28]}
+{"kind":"textbox","slide":6,"id":"31","role":"narrative body","text":"The V2 prompts labeled more reviews as neutral\nthan the V1 prompts. That suggests better\nrecognition of mixed feedback, even though the\nhighest judged quality still came from the simpler\nZero-Shot V1 prompt.","textPreview":"The V2 prompts labeled more reviews as neutral | than the V1 prompts. That suggests better | recognition of mixed feedback, even though the | highest judged quality still came from","textChars":207,"textLines":5,"bbox":[680,482,512,112]}
+{"kind":"shape","slide":7,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":7,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":7,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":7,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"textbox","slide":7,"id":"6","role":"header","text":"CUSTOMER THEMES","textPreview":"CUSTOMER THEMES","textChars":15,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":7,"id":"7","role":"header","text":"07 / 09","textPreview":"07 / 09","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":7,"id":"8","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":7,"id":"9","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":7,"id":"10","role":"title","text":"Customer feedback points to a few repeating root causes","textPreview":"Customer feedback points to a few repeating root causes","textChars":55,"textLines":1,"bbox":[64,86,820,142]}
+{"kind":"textbox","slide":7,"id":"11","role":"subtitle","text":"The same issues appear across summaries, sentiment labels, and review-level retail insights.","textPreview":"The same issues appear across summaries, sentiment labels, and review-level retail insights.","textChars":92,"textLines":1,"bbox":[66,194,720,34]}
+{"kind":"shape","slide":7,"id":"12","role":"theme sizing frame","shapeType":"roundRect","bbox":[64,224,552,180]}
+{"kind":"shape","slide":7,"id":"13","role":"theme sizing accent","shapeType":"rect","bbox":[64,224,552,7]}
+{"kind":"textbox","slide":7,"id":"14","role":"narrative title","text":"Sizing consistency","textPreview":"Sizing consistency","textChars":18,"textLines":1,"bbox":[86,242,508,28]}
+{"kind":"textbox","slide":7,"id":"15","role":"narrative body","text":"Customers struggle when similar styles fit\ndifferently. Better size charts and clearer fit\nguidance should be treated as a revenue-protection\nlever.","textPreview":"Customers struggle when similar styles fit | differently. Better size charts and clearer fit | guidance should be treated as a revenue-protection | lever.","textChars":148,"textLines":4,"bbox":[88,276,504,114]}
+{"kind":"shape","slide":7,"id":"16","role":"theme fit frame","shapeType":"roundRect","bbox":[664,224,552,180]}
+{"kind":"shape","slide":7,"id":"17","role":"theme fit accent","shapeType":"rect","bbox":[664,224,552,7]}
+{"kind":"textbox","slide":7,"id":"18","role":"narrative title","text":"Fit and comfort","textPreview":"Fit and comfort","textChars":15,"textLines":1,"bbox":[686,242,508,28]}
+{"kind":"textbox","slide":7,"id":"19","role":"narrative body","text":"Sleeves, bust, waist, and overall drape appear\noften in review friction. Fit comments are\nspecific enough to guide merchandising and product\ndevelopment.","textPreview":"Sleeves, bust, waist, and overall drape appear | often in review friction. Fit comments are | specific enough to guide merchandising and product | development.","textChars":153,"textLines":4,"bbox":[688,276,504,114]}
+{"kind":"shape","slide":7,"id":"20","role":"theme image frame","shapeType":"roundRect","bbox":[64,430,552,180]}
+{"kind":"shape","slide":7,"id":"21","role":"theme image accent","shapeType":"rect","bbox":[64,430,552,7]}
+{"kind":"textbox","slide":7,"id":"22","role":"narrative title","text":"Image and color accuracy","textPreview":"Image and color accuracy","textChars":24,"textLines":1,"bbox":[86,448,508,28]}
+{"kind":"textbox","slide":7,"id":"23","role":"narrative body","text":"Product photos and descriptions shape\nexpectations. When color, texture, or silhouette\ndo not match the product page, dissatisfaction\nrises quickly.","textPreview":"Product photos and descriptions shape | expectations. When color, texture, or silhouette | do not match the product page, dissatisfaction | rises quickly.","textChars":148,"textLines":4,"bbox":[88,482,504,114]}
+{"kind":"shape","slide":7,"id":"24","role":"theme quality frame","shapeType":"roundRect","bbox":[664,430,552,180]}
+{"kind":"shape","slide":7,"id":"25","role":"theme quality accent","shapeType":"rect","bbox":[664,430,552,7]}
+{"kind":"textbox","slide":7,"id":"26","role":"narrative title","text":"Material quality and style strength","textPreview":"Material quality and style strength","textChars":35,"textLines":1,"bbox":[686,448,508,28]}
+{"kind":"textbox","slide":7,"id":"27","role":"narrative body","text":"Customers consistently reward flattering,\nversatile designs, but they also notice softness,\ndurability, and fabric quality almost immediately.","textPreview":"Customers consistently reward flattering, | versatile designs, but they also notice softness, | durability, and fabric quality almost immediately.","textChars":142,"textLines":3,"bbox":[688,482,504,114]}
+{"kind":"shape","slide":8,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":8,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":8,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":8,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"textbox","slide":8,"id":"6","role":"header","text":"ACTION PLAN","textPreview":"ACTION PLAN","textChars":11,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":8,"id":"7","role":"header","text":"08 / 09","textPreview":"08 / 09","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":8,"id":"8","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":8,"id":"9","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":8,"id":"10","role":"title","text":"Recommended business actions","textPreview":"Recommended business actions","textChars":28,"textLines":1,"bbox":[64,86,820,142]}
+{"kind":"textbox","slide":8,"id":"11","role":"subtitle","text":"Short-term fixes improve the customer experience now; long-term actions reduce repeat friction.","textPreview":"Short-term fixes improve the customer experience now; long-term actions reduce repeat friction.","textChars":95,"textLines":1,"bbox":[66,194,720,34]}
+{"kind":"shape","slide":8,"id":"12","role":"short term recommendations frame","shapeType":"roundRect","bbox":[64,224,552,348]}
+{"kind":"shape","slide":8,"id":"13","role":"short term recommendations accent","shapeType":"rect","bbox":[64,224,552,7]}
+{"kind":"textbox","slide":8,"id":"14","role":"panel title","text":"Next 3-6 months","textPreview":"Next 3-6 months","textChars":15,"textLines":1,"bbox":[86,244,508,30]}
+{"kind":"textbox","slide":8,"id":"15","role":"bullet list","text":"• Revise sizing guides, fit notes, and product copy\nto reduce avoidable confusion before purchase.\n• Upgrade product photography and color\ndescriptions so online expectations better match\nthe item received.\n• Create a simple post-purchase feedback loop that\nflags repeat complaints for immediate review by\nmerchandising and support.","textPreview":"• Revise sizing guides, fit notes, and product copy | to reduce avoidable confusion before purchase. | • Upgrade product photography and color | descriptions so online expectations","textChars":332,"textLines":8,"bbox":[88,290,504,260]}
+{"kind":"shape","slide":8,"id":"16","role":"long term recommendations frame","shapeType":"roundRect","bbox":[664,224,552,348]}
+{"kind":"shape","slide":8,"id":"17","role":"long term recommendations accent","shapeType":"rect","bbox":[664,224,552,7]}
+{"kind":"textbox","slide":8,"id":"18","role":"panel title","text":"Next 6-12 months","textPreview":"Next 6-12 months","textChars":16,"textLines":1,"bbox":[686,244,508,30]}
+{"kind":"textbox","slide":8,"id":"19","role":"bullet list","text":"• Standardize sizing logic across collections and\nvalidate it with broader fit testing.\n• Expand fit coverage across body types, including\npetite and plus sizing where demand is visible.\n• Evaluate virtual fit or richer personalization\ntools to reduce returns and increase purchase\nconfidence.","textPreview":"• Standardize sizing logic across collections and | validate it with broader fit testing. | • Expand fit coverage across body types, including | petite and plus sizing where demand","textChars":293,"textLines":7,"bbox":[688,290,504,260]}
+{"kind":"shape","slide":8,"id":"20","role":"business impact panel frame","shapeType":"roundRect","bbox":[64,588,1152,116]}
+{"kind":"shape","slide":8,"id":"21","role":"business impact panel accent","shapeType":"rect","bbox":[64,588,1152,7]}
+{"kind":"textbox","slide":8,"id":"22","role":"narrative title","text":"Expected business impact","textPreview":"Expected business impact","textChars":24,"textLines":1,"bbox":[86,606,1108,28]}
+{"kind":"textbox","slide":8,"id":"23","role":"narrative body","text":"The pipeline can help ChicStyle spot pain points faster, improve product pages, prioritize fixes with\nevidence, and reduce avoidable dissatisfaction before it turns into returns or churn.","textPreview":"The pipeline can help ChicStyle spot pain points faster, improve product pages, prioritize fixes with | evidence, and reduce avoidable dissatisfaction before it turns into returns ","textChars":187,"textLines":2,"bbox":[88,640,1104,50]}
+{"kind":"shape","slide":9,"id":"2","role":"backdrop orb","shapeType":"ellipse","bbox":[960,-120,380,380]}
+{"kind":"shape","slide":9,"id":"3","role":"backdrop orb","shapeType":"ellipse","bbox":[1080,28,180,180]}
+{"kind":"shape","slide":9,"id":"4","role":"backdrop orb","shapeType":"ellipse","bbox":[-120,570,220,220]}
+{"kind":"shape","slide":9,"id":"5","role":"accent top rule","shapeType":"rect","bbox":[0,0,1280,10]}
+{"kind":"textbox","slide":9,"id":"6","role":"header","text":"DECISION","textPreview":"DECISION","textChars":8,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":9,"id":"7","role":"header","text":"09 / 09","textPreview":"09 / 09","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":9,"id":"8","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":9,"id":"9","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":9,"id":"10","role":"title","text":"Recommended path forward","textPreview":"Recommended path forward","textChars":24,"textLines":1,"bbox":[64,86,820,142]}
+{"kind":"textbox","slide":9,"id":"11","role":"subtitle","text":"Start with the simplest high-performing prompt, then expand with stronger validation and scale.","textPreview":"Start with the simplest high-performing prompt, then expand with stronger validation and scale.","textChars":95,"textLines":1,"bbox":[66,194,720,34]}
+{"kind":"shape","slide":9,"id":"12","role":"summary card Adopt now frame","shapeType":"roundRect","bbox":[64,232,360,176]}
+{"kind":"shape","slide":9,"id":"13","role":"summary card Adopt now accent","shapeType":"rect","bbox":[64,232,360,7]}
+{"kind":"textbox","slide":9,"id":"14","role":"summary card label","text":"ADOPT NOW","textPreview":"ADOPT NOW","textChars":9,"textLines":1,"bbox":[84,250,320,22]}
+{"kind":"textbox","slide":9,"id":"15","role":"summary card body","text":"Use Zero-Shot V1 as the default\nproduction prompt because it is\nthe highest-scoring and simplest\ndesign to maintain.","textPreview":"Use Zero-Shot V1 as the default | production prompt because it is | the highest-scoring and simplest | design to maintain.","textChars":116,"textLines":4,"bbox":[84,278,320,122]}
+{"kind":"shape","slide":9,"id":"16","role":"summary card Escalate smartly frame","shapeType":"roundRect","bbox":[460,232,360,176]}
+{"kind":"shape","slide":9,"id":"17","role":"summary card Escalate smartly accent","shapeType":"rect","bbox":[460,232,360,7]}
+{"kind":"textbox","slide":9,"id":"18","role":"summary card label","text":"ESCALATE SMARTLY","textPreview":"ESCALATE SMARTLY","textChars":16,"textLines":1,"bbox":[480,250,320,22]}
+{"kind":"textbox","slide":9,"id":"19","role":"summary card body","text":"Use CoT V2 for edge cases where\nthe review is mixed, complex, or\nlikely to benefit from more\nstructured reasoning.","textPreview":"Use CoT V2 for edge cases where | the review is mixed, complex, or | likely to benefit from more | structured reasoning.","textChars":114,"textLines":4,"bbox":[480,278,320,122]}
+{"kind":"shape","slide":9,"id":"20","role":"summary card Pilot next frame","shapeType":"roundRect","bbox":[856,232,360,176]}
+{"kind":"shape","slide":9,"id":"21","role":"summary card Pilot next accent","shapeType":"rect","bbox":[856,232,360,7]}
+{"kind":"textbox","slide":9,"id":"22","role":"summary card label","text":"PILOT NEXT","textPreview":"PILOT NEXT","textChars":10,"textLines":1,"bbox":[876,250,320,22]}
+{"kind":"textbox","slide":9,"id":"23","role":"summary card body","text":"Run a larger fixed-sample pilot\nand pair it with a small\nhuman-reviewed benchmark before\nwider rollout.","textPreview":"Run a larger fixed-sample pilot | and pair it with a small | human-reviewed benchmark before | wider rollout.","textChars":103,"textLines":4,"bbox":[876,278,320,122]}
+{"kind":"shape","slide":9,"id":"24","role":"limitations panel frame","shapeType":"roundRect","bbox":[64,454,1152,164]}
+{"kind":"shape","slide":9,"id":"25","role":"limitations panel accent","shapeType":"rect","bbox":[64,454,1152,7]}
+{"kind":"textbox","slide":9,"id":"26","role":"narrative title","text":"Limitations and next step","textPreview":"Limitations and next step","textChars":25,"textLines":1,"bbox":[86,472,1108,28]}
+{"kind":"textbox","slide":9,"id":"27","role":"narrative body","text":"The final prompt comparison used a 50-review sample to stay within API budget, and the LLM-as-Judge adds some\nevaluation subjectivity. The next step is to validate the same workflow on a larger fixed sample, keep\naveraging across repeated runs, and add human review for the highest-impact use cases.","textPreview":"The final prompt comparison used a 50-review sample to stay within API budget, and the LLM-as-Judge adds some | evaluation subjectivity. The next step is to validate the same workf","textChars":299,"textLines":3,"bbox":[88,506,1104,98]}
+{"kind":"textbox","slide":9,"id":"28","role":"closing decision line","text":"Recommended decision: pilot the workflow using Zero-Shot V1 as the baseline prompt.","textPreview":"Recommended decision: pilot the workflow using Zero-Shot V1 as the baseline prompt.","textChars":83,"textLines":1,"bbox":[64,646,860,24]}

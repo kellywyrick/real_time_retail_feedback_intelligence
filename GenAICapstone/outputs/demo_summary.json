@@ -1,0 +1,33 @@
+{
+  "records": 12,
+  "parse_success_rate": 1.0,
+  "sentiment_counts": {
+    "Neutral": 8,
+    "Negative": 1,
+    "Positive": 3
+  },
+  "urgency_counts": {
+    "Medium": 9,
+    "Low": 3
+  },
+  "feedback_type_counts": {
+    "Mixed": 4,
+    "Product": 8
+  },
+  "recommendation_metrics": {
+    "evaluated_records": 12,
+    "accuracy": 1.0,
+    "confusion_matrix": [
+      [
+        6,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ]
+  },
+  "mode": "offline",
+  "prompt_key": "offline_rules"
+}
