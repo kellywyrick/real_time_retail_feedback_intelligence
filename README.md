@@ -1,8 +1,6 @@
 # Real-Time Retail Feedback Intelligence
 
-A portfolio-ready GenAI project that turns fashion retail reviews into structured, actionable customer intelligence.
-
-The original work lived in a Colab notebook. This repo turns it into something a hiring manager can run, inspect, and discuss: reusable Python modules, a command-line pipeline, prompt templates, offline demo mode, optional OpenAI execution, tests, CI, and a concise business case.
+A GenAI project that turns fashion retail reviews into structured, actionable customer intelligence.
 
 ## What It Does
 
