@@ -1,8 +1,8 @@
 # Real-Time Retail Feedback Intelligence
 
-A GenAI pipeline that turns fashion retail reviews into structured, actionable customer intelligence.
+A portfolio-ready GenAI project that turns fashion retail reviews into structured, actionable customer intelligence.
 
-The original work lived in a Colab notebook. 
+The original work lived in a Colab notebook. This repo turns it into something a hiring manager can run, inspect, and discuss: reusable Python modules, a command-line pipeline, prompt templates, offline demo mode, optional OpenAI execution, tests, CI, and a concise business case.
 
 ## What It Does
 
@@ -52,7 +52,7 @@ retail-feedback data/sample_reviews.csv --mode offline --limit 12
 python -m unittest discover -s tests
 ```
 
-The offline mode is deterministic and does not require an API key.
+The offline mode is deterministic and does not require an API key, which makes the project easy for recruiters and reviewers to run.
 
 To run the no-key demo on the full local dataset:
 
@@ -96,3 +96,26 @@ tests/
   test_pipeline.py
   test_rules.py
 ```
+
+## Why This Project Works For A Portfolio
+
+- It starts with a realistic retail operations problem, not a generic sentiment demo.
+- It compares prompt strategies with a repeatable judge rubric.
+- It separates notebook exploration from reusable source code.
+- It includes graceful offline execution, so the repo is runnable without secrets.
+- It documents both business value and production risk.
+
+## Interview Talking Points
+
+- Designed and evaluated zero-shot, few-shot, and CoT prompt strategies for the same business task.
+- Hardened fragile notebook outputs with a parser that handles JSON, labeled lines, missing fields, and label normalization.
+- Added an offline rules engine so the workflow can be demonstrated without API keys or vendor access.
+- Connected model outputs to operational decisions: routing, urgency, support drafts, merchandising signals, and quality review.
+- Framed evaluation honestly, including conservative recommendation behavior and the need for a human-labeled benchmark.
+
+## Next Improvements
+
+- Add a human-labeled benchmark for feedback type and urgency.
+- Track API cost, latency, parse failures, and human override rate.
+- Add a lightweight review-ops dashboard for support and merchandising teams.
+- Connect outputs to returns, support tickets, and product-level revenue data.
