@@ -28,7 +28,7 @@ The recommendation model was intentionally conservative: it caught all non-recom
 
 ## Dataset
 
-The full source CSV should live locally at `data/raw/retail_feedback_reviews.csv`. That path is ignored by Git so the public repo stays lightweight and avoids publishing the full raw dataset.
+The full source CSV lives locally at `data/raw/retail_feedback_reviews.csv`
 
 This repo includes `data/sample_reviews.csv`, a curated 12-row sample drawn from the provided dataset. The full local file contains 22,641 usable reviews after dropping empty `Review.Text` rows.
 
@@ -50,7 +50,7 @@ retail-feedback data/sample_reviews.csv --mode offline --limit 12
 python -m unittest discover -s tests
 ```
 
-The offline mode is deterministic and does not require an API key, which makes the project easy for recruiters and reviewers to run.
+The offline mode is deterministic and does not require an API key.
 
 To run the no-key demo on the full local dataset:
 
@@ -70,7 +70,7 @@ pip install -e ".[llm]"
 retail-feedback data/sample_reviews.csv --mode llm --prompt cot_v2 --limit 5
 ```
 
-If you use a compatible hosted endpoint, set `OPENAI_BASE_URL`.
+If using a compatible hosted endpoint, set `OPENAI_BASE_URL`.
 
 ## Repository Map
 
