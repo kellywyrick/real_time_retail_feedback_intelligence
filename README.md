@@ -94,10 +94,3 @@ tests/
   test_pipeline.py
   test_rules.py
 ```
-
-## Next Improvements
-
-- Add a human-labeled benchmark for feedback type and urgency.
-- Track API cost, latency, parse failures, and human override rate.
-- Add a lightweight review-ops dashboard for support and merchandising teams.
-- Connect outputs to returns, support tickets, and product-level revenue data.
