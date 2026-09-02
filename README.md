@@ -1,6 +1,8 @@
+Applied AI & Data Science graduate from MIT's professional program transitioning from marine science management into machine learning, generative AI, and data science. Experienced in predictive modeling, experimentation, recommendation systems, and AI evaluation.
+
 # Real-Time Retail Feedback Intelligence
 
-A GenAI project that turns fashion retail reviews into structured, actionable customer intelligence.
+GenAI that turns fashion retail reviews into structured, actionable customer intelligence
 
 ## What It Does
 
